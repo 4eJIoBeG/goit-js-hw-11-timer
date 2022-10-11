@@ -1,0 +1,15 @@
+.timer {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+.field {
+    margin: 25px;
+    padding: 5px;
+}
+.field :first-child{
+    color: red;
+    font-size: 28px;
+}
